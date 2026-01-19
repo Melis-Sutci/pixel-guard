@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "total_devices": 35,
+    "last_updated": "2026-01-19",
+    "min_ios_version": 14,
+    "max_ios_version": 18
+  },
+  "devices": {
+    "iPhone 15 Pro Max": {
+      "manufacturer": "Apple",
+      "model": "A3108",
+      "screen": {
+        "width": 1290,
+        "height": 2796,
+        "density": 3.0,
+        "dpi": 460,
+        "aspect_ratio": "19.5:9",
+        "diagonal": 6.7
+      },
+      "os_versions": [17, 18],
+      "category": "flagship",
+      "released": 2023,
+      "popularity_score": 98,
+      "foldable": false
+    },
+    "iPhone 15 Pro": {
+      "manufacturer": "Apple",
+      "model": "A3102",
+      "screen": {
+        "width": 1179,
+        "height": 2556,
+        "density": 3.0,
+        "dpi": 460,
+        "aspect_ratio": "19.5:9",
+        "diagonal": 6.1
+      },
+      "os_versions": [17, 18],
+      "category": "flagship",
+      "released": 2023,
+      "popularity_score": 96,
+      "foldable": false
+    },
+    "iPhone 14 Pro Max": {
+      "manufacturer": "Apple",
+      "model": "A2894",
+      "screen": {
+        "width": 1290,
+        "height": 2796,
+        "density": 3.0,
+        "dpi": 460,
+        "aspect_ratio": "19.5:9",
+        "diagonal": 6.7
+      },
+      "os_versions": [16, 17, 18],
+      "category": "flagship",
+      "released": 2022,
+      "popularity_score": 95,
+      "foldable": false
+    },
+    "iPhone 13 Pro Max": {
+      "manufacturer": "Apple",
+      "model": "A2484",
+      "screen": {
+        "width": 1284,
+        "height": 2778,
+        "density": 3.0,
+        "dpi": 458,
+        "aspect_ratio": "19.5:9",
+        "diagonal": 6.7
+      },
+      "os_versions": [15, 16, 17, 18],
+      "category": "flagship",
+      "released": 2021,
+      "popularity_score": 90,
+      "foldable": false
+    },
+    "iPhone 12 Pro Max": {
+      "manufacturer": "Apple",
+      "model": "A2342",
+      "screen": {
+        "width": 1284,
+        "height": 2778,
+        "density": 3.0,
+        "dpi": 458,
+        "aspect_ratio": "19.5:9",
+        "diagonal": 6.7
+      },
+      "os_versions": [14, 15, 16, 17, 18],
+      "category": "flagship",
+      "released": 2020,
+      "popularity_score": 85,
+      "foldable": false
+    },
+    "iPhone 11": {
+      "manufacturer": "Apple",
+      "model": "A2111",
+      "screen": {
+        "width": 828,
+        "height": 1792,
+        "density": 2.0,
+        "dpi": 326,
+        "aspect_ratio": "19.5:9",
+        "diagonal": 6.1
+      },
+      "os_versions": [13, 14, 15, 16, 17],
+      "category": "flagship",
+      "released": 2019,
+      "popularity_score": 83,
+      "foldable": false
+    },
+    "iPhone SE 3rd Gen": {
+      "manufacturer": "Apple",
+      "model": "A2782",
+      "screen": {
+        "width": 750,
+        "height": 1334,
+        "density": 2.0,
+        "dpi": 326,
+        "aspect_ratio": "16:9",
+        "diagonal": 4.7
+      },
+      "os_versions": [15, 16, 17, 18],
+      "category": "mid-range",
+      "released": 2022,
+      "popularity_score": 80,
+      "foldable": false
+    }
+  }
+}

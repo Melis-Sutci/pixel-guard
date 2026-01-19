@@ -1,0 +1,131 @@
+{
+  "metadata": {
+    "total_devices": 60,
+    "last_updated": "2026-01-19",
+    "min_android_version": 9,
+    "max_android_version": 15
+  },
+  "devices": {
+    "Samsung Galaxy S24 Ultra": {
+      "manufacturer": "Samsung",
+      "model": "SM-S928",
+      "screen": {
+        "width": 1440,
+        "height": 3120,
+        "density": 3.0,
+        "dpi": 501,
+        "aspect_ratio": "19.3:9",
+        "diagonal": 6.8
+      },
+      "os_versions": [13, 14, 15],
+      "category": "flagship",
+      "released": 2024,
+      "popularity_score": 98,
+      "foldable": false
+    },
+    "Samsung Galaxy S23 Ultra": {
+      "manufacturer": "Samsung",
+      "model": "SM-S918",
+      "screen": {
+        "width": 1440,
+        "height": 3088,
+        "density": 3.0,
+        "dpi": 500,
+        "aspect_ratio": "19.3:9",
+        "diagonal": 6.8
+      },
+      "os_versions": [13, 14, 15],
+      "category": "flagship",
+      "released": 2023,
+      "popularity_score": 95,
+      "foldable": false
+    },
+    "Samsung Galaxy Z Fold 5": {
+      "manufacturer": "Samsung",
+      "model": "SM-F946",
+      "screen": {
+        "width": 1812,
+        "height": 2176,
+        "density": 2.625,
+        "dpi": 374,
+        "aspect_ratio": "21.6:18",
+        "diagonal": 7.6
+      },
+      "os_versions": [13, 14, 15],
+      "category": "flagship",
+      "released": 2023,
+      "popularity_score": 80,
+      "foldable": true,
+      "fold_type": "book"
+    },
+    "Samsung Galaxy Z Flip 5": {
+      "manufacturer": "Samsung",
+      "model": "SM-F731",
+      "screen": {
+        "width": 1080,
+        "height": 2640,
+        "density": 2.625,
+        "dpi": 425,
+        "aspect_ratio": "22:9",
+        "diagonal": 6.7
+      },
+      "os_versions": [13, 14, 15],
+      "category": "flagship",
+      "released": 2023,
+      "popularity_score": 78,
+      "foldable": true,
+      "fold_type": "clamshell"
+    },
+    "Google Pixel 8 Pro": {
+      "manufacturer": "Google",
+      "model": "Pixel 8 Pro",
+      "screen": {
+        "width": 1344,
+        "height": 2992,
+        "density": 3.0,
+        "dpi": 489,
+        "aspect_ratio": "20:9",
+        "diagonal": 6.7
+      },
+      "os_versions": [14, 15],
+      "category": "flagship",
+      "released": 2023,
+      "popularity_score": 92,
+      "foldable": false
+    },
+    "Xiaomi 14 Ultra": {
+      "manufacturer": "Xiaomi",
+      "model": "2405CPX3DG",
+      "screen": {
+        "width": 1440,
+        "height": 3200,
+        "density": 3.0,
+        "dpi": 522,
+        "aspect_ratio": "20:9",
+        "diagonal": 6.73
+      },
+      "os_versions": [14, 15],
+      "category": "flagship",
+      "released": 2024,
+      "popularity_score": 90,
+      "foldable": false
+    },
+    "OnePlus 12": {
+      "manufacturer": "OnePlus",
+      "model": "CPH2583",
+      "screen": {
+        "width": 1440,
+        "height": 3168,
+        "density": 3.0,
+        "dpi": 510,
+        "aspect_ratio": "19.8:9",
+        "diagonal": 6.82
+      },
+      "os_versions": [14, 15],
+      "category": "flagship",
+      "released": 2024,
+      "popularity_score": 88,
+      "foldable": false
+    }
+  }
+}
